@@ -3,10 +3,10 @@ body {
     background-color: #E0E0E2;
 }
 h1 {
-    text-decoration-color: #721817;
+    color: #721817;
 }
 h1 {
-    text-decoration-color: #721817;
+    color: #721817;
 }
 .center-text {
     text-align: center;
@@ -17,10 +17,10 @@ h1 {
     display: block;
 }
 h2 >span {
-    text-decoration-color: #FA9F42;
+    color: #FA9F42;
     font-size:00.75em;
 }
 #copyright {
-    padding-top:12px;
+    padding:12px;
     font-size: 0.75em;
 }
