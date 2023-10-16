@@ -1,0 +1,56 @@
+#HTML Code IS:
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Abhishek Kumar</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <div>
+            <h1>Abhishek Kumar</h1>
+        </div>
+        <div>
+            <img src="photo.jpg" id="photo">
+        </div>
+        <div>
+            <h2>Favourite Music Artists</h2>
+            <ul>
+                <li>Arijit Singh</li>
+                <li>Sonu Nigam</li>
+                <li>Lata Mangeshkar</li>
+                <li>Alka Yagnik</li>
+                <li>Kailash Kher</li>
+            </ul>
+        </div>
+        <div>
+            <h2>Favourite Films</h2>
+            <ol>
+                <li>RRR</li>
+                <li>KGF Chapter 1 & 2</li>
+                <li>Bahubali 1 & 2</li>
+                <li>Pushpa</li>
+                <li>Uri: The Surgical Strike</li>
+            </ol>
+        </div>
+        <div>
+            <a href="https://www.meta.com/">My Profile</a>
+        </div>
+    
+
+    </body>
+</html>
+
+# CSS CODE IS
+#photo {
+    border: 2px solid blue;
+}
+body>div>h1{
+    color: blue;
+}
+h2{
+    color: grey;
+}
+div{
+    margin: 4px;
+}
